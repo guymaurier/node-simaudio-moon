@@ -1,0 +1,11 @@
+{
+  "name": "node-simaudio-moon",
+  "version": "0.1.0",
+  "description": "Simaudio Moon RS-232 controls via NodeJS",
+  "main": "lib.js",
+  "author": "Guy Maurier",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "serialport": "^9.1.0"
+  }
+}
